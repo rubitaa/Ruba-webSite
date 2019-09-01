@@ -123,6 +123,9 @@
       <replace>Route::</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -260,11 +263,12 @@
       <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -354,6 +358,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -392,12 +397,12 @@
       <workItem from="1557948968966" duration="2896000" />
       <workItem from="1558923776562" duration="4426000" />
       <workItem from="1558980595161" duration="2468000" />
-      <workItem from="1567325619229" duration="688000" />
+      <workItem from="1567325619229" duration="1630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189727000" />
+    <option name="totallyTimeSpent" value="190669000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -410,6 +415,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="3204" height="1718" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16655949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -426,7 +432,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50031704" side_tool="true" weight="0.32440847" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49968293" visible="true" weight="0.23060797" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49968293" visible="true" weight="0.6251748" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
